@@ -5,6 +5,12 @@ var quotes=[
         surah: "An-Najm",
         ayat: "32"
     },
+  {
+        quote: "Allah is with those who patiently persevere."
+        source: "Allah",
+        surah: "Al-Baqarah",
+        ayat: "153"
+    },
     {
         quote: "Allah Will create ease after hardship.",
         source: "Allah",
